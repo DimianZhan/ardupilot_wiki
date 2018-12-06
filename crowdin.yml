@@ -1,0 +1,10 @@
+files:
+  - source: '*'
+    ignore:
+      - '*.py'
+      - '*.bat'
+      - Makefile
+      - '*.sh'
+      - .gitignore
+      - /images
+    translation: '%original_path%/%original_file_name%'
