@@ -7,4 +7,5 @@ files:
       - '*.sh'
       - .gitignore
       - /images
+      - /*/source/images
     translation: '%original_path%/%original_file_name%'
