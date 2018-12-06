@@ -9,4 +9,5 @@ files:
       - /images
       - /*/source/images
       - Vagrantfile
+      - /logos
     translation: '%original_path%/%original_file_name%'
