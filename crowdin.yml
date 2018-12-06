@@ -8,4 +8,5 @@ files:
       - .gitignore
       - /images
       - /*/source/images
+      - Vagrantfile
     translation: '%original_path%/%original_file_name%'
