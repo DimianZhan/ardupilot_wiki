@@ -197,8 +197,8 @@ Connect your APM to your USB
    .. image:: ../images/arduino_tools_target_apm2.jpg
        :target: ../_images/arduino_tools_target_apm2.jpg
    
-#. Then click the “Tools” tab and select “Arduino Mega 2560 or Mega ADK”
-   from the “Board” tab.
+#. 
+   
 
    .. image:: ../images/arduino_tools_select_target_board.jpg
        :target: ../_images/arduino_tools_select_target_board.jpg
