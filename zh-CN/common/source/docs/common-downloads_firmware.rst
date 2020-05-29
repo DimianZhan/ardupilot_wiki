@@ -89,8 +89,8 @@ Since we want you to have a great experience, please make sure that you do all o
 * Never operate the vehicle or software in a way that could be dangerous to you, other people, or property. 
   Propellers, while rotating, could easily cut you; if a UAV fell on a person or object, 
   it could cause injury; a UAV caught in power lines could cause an outage. 
-  As Ben Franklin said, “An ounce of prevention is worth a pound of cure.”
-* Always keep in mind that software and hardware failures happen. 
+  
+ 
   Although we design our products to minimize such issues, you should always operate with the understanding that 
   a failure could occur at any point of time and without warning. 
   As such, you should take the appropriate precautions to minimize danger in case of failure.
